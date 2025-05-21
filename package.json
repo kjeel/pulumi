@@ -1,0 +1,12 @@
+{
+    "name": "Pulumi_Webserver",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/azure-native": "^3.5.0",
+        "@pulumi/pulumi": "^3.170.0"
+    }
+}
